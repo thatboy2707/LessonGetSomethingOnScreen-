@@ -6,10 +6,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
 
-function Portfolio() {
-    return (
-        <div> Here is the current portfolio
-            <h1>View Properties Below </h1>
+// function Portfolio() {
+//     return (
+//         <div> Here is the current portfolio
+//             <h1>View Properties Below </h1>
 
             {/* <button onClick = 'CurrentProperties()'>
   Current Properties </button> */}
